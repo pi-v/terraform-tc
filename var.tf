@@ -1,2 +1,2 @@
-variable "vpcname" {}
-variable "ip" {}
+variable "name" {}
+variable "cidr_block" {}
